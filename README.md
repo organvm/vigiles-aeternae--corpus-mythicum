@@ -32,4 +32,6 @@ sources/         Bibliography and source references
 
 ## Status
 
-**LOCAL** — Genesis phase. Directory scaffold created. Corpus ingestion pending.
+**ACTIVE** — Current corpus phase is ingested: 28 corpus directories, 13 formal governance syntheses, raw tradition material, metaLAWs codex v1, comparative taxonomy, power-taxonomy schema, and a draft paper are present.
+
+Pending: B17 regime YAML formalization in `meta-organvm/vigiles-aeternae--agon-cosmogonicum`.
