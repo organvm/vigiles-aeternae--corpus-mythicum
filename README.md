@@ -32,6 +32,8 @@ sources/         Bibliography and source references
 
 ## Status
 
-**ACTIVE** — Current corpus phase is ingested: 28 corpus directories, 13 formal governance syntheses, raw tradition material, metaLAWs codex v1, comparative taxonomy, power-taxonomy schema, and a draft paper are present.
+**ACTIVE (as research corpus)** — Current corpus phase is ingested: 28 corpus directories, 13 formal governance syntheses, raw tradition material, metaLAWs codex v1, comparative taxonomy, power-taxonomy schema, and a draft paper are present.
+
+**Activation: `park`** — Per the activation audit ([EV-2026-06-11](ACTIVATION-AUDIT.md)), this is a `docs-only-shell` with no shipped, installable, or runnable artifact. It is parked for product activation while remaining live as source material for downstream organs. See [ACTIVATION-AUDIT.md](ACTIVATION-AUDIT.md).
 
 Pending: B17 regime YAML formalization in `meta-organvm/vigiles-aeternae--agon-cosmogonicum`.
