@@ -18,3 +18,5 @@ jobs:
           fi
       - name: Run tests
         run: make test
+      - name: Run markdownlint
+        run: npx markdownlint-cli2 "**/*.md"

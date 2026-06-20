@@ -83,13 +83,14 @@ This creates a fascinating regime: one whose success metric is **the absence of 
 > Water benefits all things and does not compete.
 > It stays in the places that others disdain.
 > That is why it is close to the Dao." (DDJ 8)
-
+>
 > "Nothing in the world is softer and weaker than water,
 > yet nothing is better at overcoming the hard and strong." (DDJ 78)
 
 ### Governance Insight: Soft Power as Ultimate Power
 
 Water governs by:
+
 - **Following** — it goes where gravity takes it, not where it desires
 - **Filling** — it occupies the lowest places, the gaps, the spaces no one else wants
 - **Persisting** — given time, it overcomes everything through continuous gentle pressure
@@ -156,12 +157,14 @@ regime:
 ## VI. Sources Cited
 
 ### Primary Texts
+
 - Laozi, *Daodejing* (c. 4th century BCE)
 - Zhuang Zhou, *Zhuangzi* (c. 3rd century BCE)
 - *Liezi* (c. 4th-3rd century BCE, compiled c. 4th century CE)
 - *Yijing / I Ching* (c. 9th century BCE onward)
 
 ### Scholarly Works
+
 - [Slingerland, *Effortless Action: Wu-wei* — Oxford Academic](https://academic.oup.com/book/50130)
 - ["Wu-wei in the Laozi" — Oxford Academic](https://academic.oup.com/book/50130/chapter/422524439)
 - ["Daoist Leadership" — Cambridge UP](https://www.cambridge.org/core/books/abs/leadership-and-management-in-china/daoist-leadership-theory-and-application/C70689B1E54A8F1F9FCD3D970A41440D)
